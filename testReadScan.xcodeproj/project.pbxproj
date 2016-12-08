@@ -20,6 +20,7 @@
 		6952BADC1DF90BD000DAD397 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6952BADF1DF90BD000DAD397 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		6952BAE11DF90BD000DAD397 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6952BAE71DF92BA800DAD397 /* BarcodeScanViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = BarcodeScanViewController.swift; path = ../../../github/surf30/Surf/BarcodeScanViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +53,7 @@
 		6952BAD71DF90BD000DAD397 /* testReadScan */ = {
 			isa = PBXGroup;
 			children = (
+				6952BAE71DF92BA800DAD397 /* BarcodeScanViewController.swift */,
 				6952BAD81DF90BD000DAD397 /* AppDelegate.swift */,
 				6952BADA1DF90BD000DAD397 /* ViewController.swift */,
 				6952BADC1DF90BD000DAD397 /* Assets.xcassets */,
